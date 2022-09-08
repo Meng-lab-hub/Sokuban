@@ -1,0 +1,4 @@
+Use w,a,s,d to move in each direction (at every movement press enter).
+To select any choice follow the indicated number there and press enter.
+
+To exist the game (only the game play) press ESC and enter.

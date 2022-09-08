@@ -1,0 +1,6 @@
+    youn 1
+    da 2
+    yer 2
+    ko 3
+    ye 4
+    meng 34
